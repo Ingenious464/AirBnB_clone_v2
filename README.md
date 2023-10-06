@@ -9,7 +9,7 @@ It represents the first step towards building a full web application: the AirBnB
 
 This first step consists of:
 - a custom command-line interface for data management,
-- and the base classes for the storage of this data.
+- and the base classes for the storage of this data. and othera
 
 ## Usage í²»
 
